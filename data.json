@@ -1,0 +1,12 @@
+{
+  "transformRules": [
+    {
+      "searchString": "//",
+      "replaceString": "　"
+    },
+    {
+      "searchString": "",
+      "replaceString": ""
+    }
+  ]
+}

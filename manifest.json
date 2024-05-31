@@ -1,0 +1,9 @@
+{
+    "id": "safe-spacer",
+    "name": "Safe Spacer",
+    "version": "1.0.0",
+    "minAppVersion": "0.9.12",
+    "description": "Transforms user-defined strings to other user-defined strings in real-time preview.",
+    "author": "NoaNao",
+    "isDesktopOnly": false
+  }
